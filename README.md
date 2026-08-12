@@ -105,8 +105,9 @@ not just a single snapshot.
 - Assess whether low-revenue accessory SKUs (e.g., Racing Socks) should be 
   discontinued or repositioned as cross-sell add-ons.
 
-## 👩‍💻 About
-Built as part of my self-learning journey in Data Analytics 
-while pursuing Chemical Engineering at IIT Jammu.
-Implemented each component independently following 
-industry best practices.
+  ## 👩‍💻 About
+Built while learning SQL & Data Warehousing concepts through Data with 
+Baraa's course, as part of my self-learning journey in Data Analytics 
+alongside pursuing Chemical Engineering at IIT Jammu. 
+I later applied the same Medallion Architecture concepts independently 
+on my own dataset in my [Petrochemical Sensor Data Analytics Pipeline](link-here) project.
