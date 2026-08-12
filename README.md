@@ -110,4 +110,4 @@ Built while learning SQL & Data Warehousing concepts through Data with
 Baraa's course, as part of my self-learning journey in Data Analytics 
 alongside pursuing Chemical Engineering at IIT Jammu. 
 I later applied the same Medallion Architecture concepts independently 
-on my own dataset in my [Petrochemical Sensor Data Analytics Pipeline]((https://github.com/Ayushi98mi/Petrochemical-Sensor-Data-Analytics-Pipeline)) project.
+on my own dataset in my [Petrochemical Sensor Data Analytics Pipeline](https://github.com/Ayushi98mi/Petrochemical-Sensor-Data-Analytics-Pipeline) project.
